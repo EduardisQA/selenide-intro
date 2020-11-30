@@ -1,0 +1,4 @@
+[1130/093247.306:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1130/093247.308:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1130/103141.141:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1130/103141.144:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
